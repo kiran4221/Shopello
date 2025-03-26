@@ -1,8 +1,8 @@
-# AWS E-Commerce Platform
+# AWS Shopello
 
 ## Section 1: Project Description
 
-**Project Name:** AWS E-Commerce Platform
+**Project Name:** Shopello
 
 **Description:**  
 This project is a scalable, secure, and highly available e-commerce application deployed on AWS. It allows users to browse products, add items to a shopping cart, and securely check out. User authentication is managed by AWS Cognito, while backend operations utilize AWS Lambda, API Gateway, and other serverless services to ensure high availability and auto-scaling during traffic spikes. This solution addresses common challenges in traditional hosting such as scalability issues, security risks, and high operational overhead.
